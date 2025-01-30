@@ -113,3 +113,4 @@ kubernetes:
 permission:
   # setting this to `false` will disable permissions
   enabled: true
+# knex migrate:make samplecrud  --migrations-directory migrations
